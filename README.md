@@ -37,3 +37,5 @@ knex migrate:latest ## it'll create the DB schema in connected database
 ```
 npm run start-dev  
 ```
+
+Note: I've used ExpressJS without Lucid form - as it was more compatible with adonisjs, but since I had option and more experience with ExpressJS, I went with it. Although, adonisjs seems a pretty good framework.
